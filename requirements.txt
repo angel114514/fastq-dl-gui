@@ -1,0 +1,2 @@
+requests>=2.25
+# 可选下载引擎：aria2c（不是 Python 包，需单独安装，见 README）
